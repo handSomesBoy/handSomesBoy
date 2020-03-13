@@ -4,7 +4,7 @@ title: springboot项目集成mybatis
 date: 2019-10-29 14:52:00
 categories: spring-boot学习笔记
 tags: java
-author: 朋也
+author: 阿辉
 ---
 
 * content
@@ -78,7 +78,7 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `username`)
 VALUES
 	(1, 'tomoya'),
-	(2, '朋也');
+	(2, '阿辉');
 ```
 
 ## 实体类mapper
@@ -205,8 +205,8 @@ public class MultipleDatasourceApplicationTests {
 
 ```log
 User{id=1, username='tomoya'}
-User{id=2, username='朋也'}
+User{id=2, username='阿辉'}
 =========================
 User{id=1, username='tomoya'}
-User{id=2, username='朋也'}
+User{id=2, username='阿辉'}
 ```

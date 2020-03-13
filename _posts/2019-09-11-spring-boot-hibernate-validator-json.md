@@ -4,7 +4,7 @@ title: springboot前后端分离项目中使用hibernate-validator校验请求�
 date: 2019-09-11 16:02:00
 categories: spring-boot学习笔记
 tags: java
-author: 朋也
+author: 阿辉
 ---
 
 * content

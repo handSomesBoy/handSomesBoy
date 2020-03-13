@@ -4,7 +4,7 @@ title: springboot服务优雅关机脚本（在停止服务的命令发出后将
 date: 2019-05-31 07:40:00
 categories: spring-boot学习笔记
 tags: spring-boot shell
-author: 朋也
+author: 阿辉
 ---
 
 * content

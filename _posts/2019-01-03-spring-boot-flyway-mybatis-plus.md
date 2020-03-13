@@ -4,7 +4,7 @@ title: Spring-Boot项目集成Flyway和MybatisPlus执行先后问题解决办法
 date: 2019-01-03 17:14:00
 categories: spring-boot学习笔记
 tags: spring-boot flyway mybatis-plus
-author: 朋也
+author: 阿辉
 ---
 
 * content

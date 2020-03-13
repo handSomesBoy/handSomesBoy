@@ -3,7 +3,7 @@ layout: post
 title: spring-boot项目里的MongoDB的用法
 categories: spring-boot学习笔记
 tags: spring-boot mongodb
-author: 朋也
+author: 阿辉
 ---
 
 * content

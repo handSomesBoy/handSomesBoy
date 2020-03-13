@@ -4,7 +4,7 @@ title: springboot集成mybatis配置主从复制双库实现读写分离
 date: 2019-10-30 10:26:00
 categories: spring-boot学习笔记
 tags: java
-author: 朋也
+author: 阿辉
 ---
 
 * content
@@ -71,7 +71,7 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `username`)
 VALUES
 	(1, 'tomoya'),
-	(2, '朋也');
+	(2, '阿辉');
 
 -- 从库的数据
 
@@ -333,7 +333,7 @@ public class MultipleDatasourceApplicationTests {
 2019-10-30 10:47:07.438  INFO 26478 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
 2019-10-30 10:47:07.644  INFO 26478 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
 User{id=1, username='tomoya'}
-User{id=2, username='朋也'}
+User{id=2, username='阿辉'}
 =========================
 2019-10-30 10:47:07.691  INFO 26478 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
 2019-10-30 10:47:07.738  INFO 26478 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
@@ -440,7 +440,7 @@ public class MultipleDatasourceApplicationTests {
 2019-10-30 10:56:11.895  INFO 26991 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
 2019-10-30 10:56:12.120  INFO 26991 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
 User{id=1, username='tomoya'}
-User{id=2, username='朋也'}
+User{id=2, username='阿辉'}
 =========================
 2019-10-30 10:56:12.167  INFO 26991 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
 2019-10-30 10:56:12.211  INFO 26991 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.

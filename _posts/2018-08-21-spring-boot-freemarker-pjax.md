@@ -4,7 +4,7 @@ title: spring-boot项目freemarker模板使用jquery.pjax实现页面无刷新�
 date: 2018-08-21 14:35:00
 categories: spring-boot学习笔记
 tags: spring-boot
-author: 朋也
+author: 阿辉
 ---
 
 * content

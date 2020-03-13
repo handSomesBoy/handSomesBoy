@@ -4,7 +4,7 @@ title: nginx用法总结，映射静态资源，代理http，负载均衡，tcp�
 date: 2019-10-12 16:59:00
 categories: 杂项
 tags: nginx
-author: 朋也
+author: 阿辉
 ---
 
 * content

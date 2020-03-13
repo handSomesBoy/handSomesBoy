@@ -3,7 +3,7 @@ layout: post
 title: spring-boot里增加表单验证hibernate-validator并在freemarker模板里显示错误信息
 categories: spring-boot学习笔记
 tags: spring-boot hibernate-validator
-author: 朋也
+author: 阿辉
 ---
 
 * content

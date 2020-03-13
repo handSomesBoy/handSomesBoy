@@ -3,7 +3,7 @@ layout: post
 title: spring-boot集成spring-security的oauth2实现github登录网站
 categories: spring-boot学习笔记
 tags: spring-boot spring-security
-author: 朋也
+author: 阿辉
 ---
 
 * content

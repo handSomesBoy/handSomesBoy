@@ -4,7 +4,7 @@ title: GraphQL入门，在Spring-Boot项目中使用GraphQL风格的接口
 date: 2019-04-03 14:02:00
 categories: spring-boot学习笔记
 tags: spring-boot graphql
-author: 朋也
+author: 阿辉
 ---
 
 * content

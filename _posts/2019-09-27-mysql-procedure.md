@@ -4,7 +4,7 @@ title: MySQL存储过程学习, java调用存储过程总结
 date: 2019-09-27 14:14:00
 categories: java学习笔记
 tags: mysql
-author: 朋也
+author: 阿辉
 ---
 
 * content

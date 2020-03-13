@@ -4,7 +4,7 @@ title: Spring-Boot集成Dubbo简单入门总结
 date: 2019-01-10 20:48:00
 categories: spring-boot学习笔记
 tags: spring-boot dubbo
-author: 朋也
+author: 阿辉
 ---
 
 * content

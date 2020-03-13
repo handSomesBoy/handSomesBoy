@@ -4,7 +4,7 @@ title: MySQL主从复制（主主复制）配置
 date: 2019-10-24 10:21:00
 categories: java学习笔记
 tags: java
-author: 朋也
+author: 阿辉
 ---
 
 * content

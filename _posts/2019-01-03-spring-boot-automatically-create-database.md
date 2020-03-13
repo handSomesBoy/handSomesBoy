@@ -4,7 +4,7 @@ title: Spring-Boot项目启动自动检测数据库是否存在，不存在自�
 date: 2019-01-03 16:55:00
 categories: spring-boot学习笔记
 tags: spring-boot
-author: 朋也
+author: 阿辉
 ---
 
 * content

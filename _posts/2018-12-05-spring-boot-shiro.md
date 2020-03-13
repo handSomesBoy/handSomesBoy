@@ -4,7 +4,7 @@ title: spring-boot 集成 shiro 自定义密码验证 自定义freemarker标签�
 date: 2018-12-05 19:11:00
 categories: spring-boot学习笔记
 tags: spring-boot shiro
-author: 朋也
+author: 阿辉
 ---
 
 * content
