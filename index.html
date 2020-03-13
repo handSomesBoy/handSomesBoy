@@ -40,7 +40,7 @@ layout: default
           <hr>
           <div class="excerpt">{{ post.excerpt }}</div>
           <div class="text-center">
-            <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-light read-more">阅读更多</a>
+            <a href="{{ post.url | prepend: site.baseurl }}" target="_blank" class="btn btn-light read-more">阅读更多</a>
           </div>
           {% if forloop.last %}
           <hr>
@@ -80,7 +80,6 @@ layout: default
   <div class="col-md-3 hidden-sm d-none d-sm-block">
     {% include sidebar-search.html %}
 <!--    //侧栏广告-->
-<!--    //侧栏广告-->
     <div class="card">
       <a href="https://www.aliyun.com/minisite/goods?userCode=r9zrphbj" target="_blank">
         <img src="https://tomoya92.github.io/assets/300x250.png" style="max-width: 100%;box-shadow:0px 0px 0px rgba(0, 0, 0, 0), 0 0 0 rgba(0, 0, 0, 0) inset">
@@ -103,17 +102,6 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-    </div>
-    <!--    //侧栏广告-->
-    <div class="card">
-      <a href="https://www.aliyun.com/minisite/goods?userCode=r9zrphbj" target="_blank">
-        <img src="https://tomoya92.github.io/assets/300x250.png" style="max-width: 100%;box-shadow:0px 0px 0px rgba(0, 0, 0, 0), 0 0 0 rgba(0, 0, 0, 0) inset">
-      </a>
-    </div>
-    <div class="card">
-      <a href="https://www.aliyun.com/minisite/goods?userCode=r9zrphbj" target="_blank">
-        <img src="https://raw.githubusercontent.com/handSomesBoy/handsomesboy.github.io/master/assets/tengxunyun_bd.png" style="max-width: 100%;box-shadow:0px 0px 0px rgba(0, 0, 0, 0), 0 0 0 rgba(0, 0, 0, 0) inset">
-      </a>
     </div>
     <div class="card">
       <div class="card-header"><i class="fa fa-tags"></i> 博客标签</div>
